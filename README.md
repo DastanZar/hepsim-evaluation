@@ -1,4 +1,4 @@
-ML4SCI HEPSIM: GSoC 2026 Evaluation Task
+#ML4SCI HEPSIM: GSoC 2026 Evaluation Task
 
 Objective: To analyze quark and gluon jets by extracting kinematic observables, performing Lorentz boosts, and training a machine learning classifier to evaluate feature representations.
 
